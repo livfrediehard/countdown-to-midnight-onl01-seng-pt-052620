@@ -1,9 +1,8 @@
 x = 10
-
-loop do
-  countdown -= 1 
-  puts "#{number} SECOND(S)!"
-  if countdown = 0 
+while x < +
+  puts "#{x} SECOND(S)!"
+  x -= 1
+  else countdown = 0 
     puts "HAPPY NEW YEAR!"
     break
 
