@@ -1,4 +1,4 @@
-countdown = 10  
+x = 10
 
 loop do
   countdown -= 1 
